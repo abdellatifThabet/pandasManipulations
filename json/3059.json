@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #3059",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/3059_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Impaler Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Old Fashioned Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Small Bowler Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Count"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Count"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Single Bloody Tooth"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/3059.png"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #5602",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/5602_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Detective Trenchcoat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Green Beret"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Count"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Count"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Base"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/5602.png"
+}

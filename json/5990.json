@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #5990",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/5990_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Tracksuit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Pupils"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Beret"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/5990.png"
+}

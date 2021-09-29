@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #8729",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/8729_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diamond Grills"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/8729.png"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #2542",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/2542_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OnlyFangs Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Single Gold Eye"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Nightcrawler"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Nightcrawler"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diamond Fangs"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/2542.png"
+}

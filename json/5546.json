@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #5546",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/5546_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Long Ciggy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Blood Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Single Bloody Tooth"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/5546.png"
+}

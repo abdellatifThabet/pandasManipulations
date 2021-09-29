@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #5024",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/5024_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Governor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flat Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Blood Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bloody Mouth"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/5024.png"
+}

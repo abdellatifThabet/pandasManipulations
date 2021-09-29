@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #3315",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/3315_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Magenta"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lakers Jersey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Single Gold Eye"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Beret"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Single Bloody Tooth"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/3315.png"
+}

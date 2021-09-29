@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #8645",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/8645_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Vampire Cloak"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pit Viper Hot"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Blood Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grills"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/8645.png"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #8845",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/8845_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cool Brown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Old Fashioned Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Nightcrawler"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Nightcrawler"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/8845.png"
+}

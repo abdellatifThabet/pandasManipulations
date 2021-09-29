@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #7666",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/7666_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Light Red"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vampire Lord"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cat Ears Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgust"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/7666.png"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #158",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/158_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Twilight Purple"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Single Gold Eye"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "The Hitman"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Laser Moth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Base"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/158.png"
+}

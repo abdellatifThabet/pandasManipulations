@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #7253",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/7253_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Stubble"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Daywalker"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Anime Hero Sunglasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diamond Fangs"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/7253.png"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #7881",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/7881_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Drool"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Tennis Headband Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Nightcrawler"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Nightcrawler"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Base"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/7881.png"
+}

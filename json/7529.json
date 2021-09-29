@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #7529",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/7529_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Stubble"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Detective Trenchcoat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Laser"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Count"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Count"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rotten Teeth"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/7529.png"
+}

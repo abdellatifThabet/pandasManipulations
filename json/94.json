@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #94",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/94_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust Brown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Stubble"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "No Pupils"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/94.png"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #2283",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/2283_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lakers Jersey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flat Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Count"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Count"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgust"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/2283.png"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #1611",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/1611_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pea Green"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OnlyFangs Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pit Viper Cool"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Burning"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burning"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bloody Mouth"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/1611.png"
+}

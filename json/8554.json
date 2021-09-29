@@ -1,0 +1,55 @@
+{
+  "name": "Sneaky Vampire #8554",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/8554_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Magenta"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypno"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Burning"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burning"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgust"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/8554.png"
+}

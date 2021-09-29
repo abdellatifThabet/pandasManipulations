@@ -1,0 +1,206 @@
+,trait_type,value,count,rarity,weight
+0,Accessory,Cigar,237,37.5,1
+1,Accessory,Ciggy,264,33.67,1
+2,Accessory,Cross,583,15.25,1
+3,Accessory,Diamond Stud,203,43.78,1
+4,Accessory,Drool,772,11.51,1
+5,Accessory,Flu Mask,275,32.32,1
+6,Accessory,Flu Mask Bloody,242,36.73,1
+7,Accessory,Gold Hoop,325,27.35,1
+8,Accessory,Gold Stud,312,28.49,1
+9,Accessory,Joint,256,34.72,1
+10,Accessory,Karate,4,2222.0,1
+11,Accessory,Long Ciggy,418,21.26,1
+12,Accessory,None,3403,2.61,1
+13,Accessory,Paperclip Earring,144,61.72,1
+14,Accessory,Pipe,533,16.68,1
+15,Accessory,Prison Mask,64,138.88,1
+16,Accessory,Silver Hoop,430,20.67,1
+17,Accessory,Silver Stud,407,21.84,1
+18,Background,Blue,553,16.07,1
+19,Background,Cool Brown,649,13.69,1
+20,Background,Dark Teal,600,14.81,1
+21,Background,Forest Green,598,14.86,1
+22,Background,Green,545,16.31,1
+23,Background,Light Red,594,14.96,1
+24,Background,Magenta,553,16.07,1
+25,Background,Maroon,524,16.96,1
+26,Background,Orange,583,15.25,1
+27,Background,Pastel Green,565,15.73,1
+28,Background,Pea Green,505,17.6,1
+29,Background,Pink,572,15.54,1
+30,Background,Red,475,18.71,1
+31,Background,Rust Brown,507,17.53,1
+32,Background,Teal,523,16.99,1
+33,Background,Twilight Purple,526,16.9,1
+34,Beard,Big Beard,798,11.14,1
+35,Beard,Goatee,770,11.54,1
+36,Beard,Moustache,396,22.44,1
+37,Beard,None,5733,1.55,1
+38,Beard,Stubble,1175,7.56,1
+39,Body,Blue,2908,3.06,1
+40,Body,Burning,892,9.96,1
+41,Body,Cyborg,1112,7.99,1
+42,Body,Gold,100,88.88,1
+43,Body,Nightcrawler,974,9.13,1
+44,Body,Purple Count,1344,6.61,1
+45,Body,Shadow,776,11.45,1
+46,Body,Sparkle,270,32.92,1
+47,Body,Zombie,496,17.92,1
+48,Clothes,Army General,150,59.25,1
+49,Clothes,Black Fur Coat,419,21.21,1
+50,Clothes,Black Hoodie,402,22.11,1
+51,Clothes,Black Tracksuit,314,28.31,1
+52,Clothes,Black Turtleneck,141,63.04,1
+53,Clothes,Black Tux,65,136.74,1
+54,Clothes,Bloody Singlet,136,65.35,1
+55,Clothes,Blue Hoodie,451,19.71,1
+56,Clothes,Blue Tux,51,174.27,1
+57,Clothes,Brown Fur Coat,429,20.72,1
+58,Clothes,Bulls Jersey,361,24.62,1
+59,Clothes,Business Suit,150,59.25,1
+60,Clothes,Celtics Jersey,347,25.61,1
+61,Clothes,Cloak,151,58.86,1
+62,Clothes,Daywalker,106,83.85,1
+63,Clothes,Detective Trenchcoat,320,27.78,1
+64,Clothes,Flannel,163,54.53,1
+65,Clothes,Gold Tux,35,253.94,1
+66,Clothes,Impaler Armor,68,130.71,1
+67,Clothes,Jiangshi,28,317.43,1
+68,Clothes,Jiangshi Black,36,246.89,1
+69,Clothes,Karate Gi,34,261.41,1
+70,Clothes,Lakers Jersey,324,27.43,1
+71,Clothes,Leather Jacket,278,31.97,1
+72,Clothes,Navy Admiral,125,71.1,1
+73,Clothes,None,320,27.78,1
+74,Clothes,Old Worn Coat,370,24.02,1
+75,Clothes,OnlyFangs Shirt,246,36.13,1
+76,Clothes,OnlyFreddy Shirt,1,8888.0,1
+77,Clothes,Pajamas,64,138.88,1
+78,Clothes,Prison Uniform,67,132.66,1
+79,Clothes,Reaver Shroud,63,141.08,1
+80,Clothes,Red Hoodie,447,19.88,1
+81,Clothes,Red Tracksuit,299,29.73,1
+82,Clothes,Red Tux,46,193.22,1
+83,Clothes,Red Vampire Cloak,75,118.51,1
+84,Clothes,Roadwarrior,67,132.66,1
+85,Clothes,Ruffian,75,118.51,1
+86,Clothes,Sea Captain,295,30.13,1
+87,Clothes,Slayer,336,26.45,1
+88,Clothes,Space Governor,229,38.81,1
+89,Clothes,Striped Suit,132,67.33,1
+90,Clothes,The Accountant,64,138.88,1
+91,Clothes,Thriller,80,111.1,1
+92,Clothes,Turtleneck,219,40.58,1
+93,Clothes,Vampire Lord,27,329.19,1
+94,Clothes,Vampire Nobility,144,61.72,1
+95,Clothes,White Tux,122,72.85,1
+96,Eyes,BTC,4,2222.0,1
+97,Eyes,Black,974,9.13,1
+98,Eyes,Bloodshot,628,14.15,1
+99,Eyes,Blue,1872,4.75,1
+100,Eyes,Blue Laser,306,29.05,1
+101,Eyes,Dark,923,9.63,1
+102,Eyes,Demonic,860,10.33,1
+103,Eyes,Gold Eyes,253,35.13,1
+104,Eyes,Hypno,216,41.15,1
+105,Eyes,No Pupils,423,21.01,1
+106,Eyes,Red Eyes,1837,4.84,1
+107,Eyes,Red Laser,112,79.36,1
+108,Eyes,Single Blue Laser Eye,4,2222.0,1
+109,Eyes,Single Gold Eye,457,19.45,1
+110,Eyes,Single Red Laser Eye,3,2962.67,1
+111,Glasses,3D Glasses,204,43.57,1
+112,Glasses,Anime Hero Sunglasses,515,17.26,1
+113,Glasses,Blindfold,512,17.36,1
+114,Glasses,Cool Shades,422,21.06,1
+115,Glasses,Eye Patch,1356,6.55,1
+116,Glasses,Glasses,906,9.81,1
+117,Glasses,Holo Shades,596,14.91,1
+118,Glasses,Monocle,393,22.62,1
+119,Glasses,None,2191,4.06,1
+120,Glasses,Old Fashioned Glasses,675,13.17,1
+121,Glasses,Pit Viper Cool,283,31.41,1
+122,Glasses,Pit Viper Hot,316,28.13,1
+123,Glasses,The Hitman,371,23.96,1
+124,Glasses,VR Headset,132,67.33,1
+125,Hair,Base,1679,5.29,1
+126,Hair,Black,1196,7.43,1
+127,Hair,Blond,1049,8.47,1
+128,Hair,Blue,876,10.15,1
+129,Hair,Brown,845,10.52,1
+130,Hair,Gold,269,33.04,1
+131,Hair,Green,599,14.84,1
+132,Hair,Grey,971,9.15,1
+133,Hair,None,90,98.76,1
+134,Hair,Platinum,174,51.08,1
+135,Hair,Purple,653,13.61,1
+136,Hair,Red,471,18.87,1
+137,Hat,Black Cap,294,30.23,1
+138,Hat,Blue Cap,295,30.13,1
+139,Hat,Cat Ears Black,205,43.36,1
+140,Hat,Cat Ears White,192,46.29,1
+141,Hat,Crooked Fedora,202,44.0,1
+142,Hat,Crossbow Bolt,146,60.88,1
+143,Hat,Devil Horns,25,355.52,1
+144,Hat,Flat Cap,347,25.61,1
+145,Hat,Giant Moth,188,47.28,1
+146,Hat,Green Beret,330,26.93,1
+147,Hat,Halo,157,56.61,1
+148,Hat,Headphones,133,66.83,1
+149,Hat,Jiangshi,30,296.27,1
+150,Hat,Jiangshi Black,27,329.19,1
+151,Hat,Jiangshi Black Talisman,3,2962.67,1
+152,Hat,Jiangshi Talisman,5,1777.6,1
+153,Hat,Karate,30,296.27,1
+154,Hat,Kings Crown,212,41.92,1
+155,Hat,Laser Moth,91,97.67,1
+156,Hat,Mini Crown,203,43.78,1
+157,Hat,None,3042,2.92,1
+158,Hat,Red Beret,388,22.91,1
+159,Hat,Red Cap,353,25.18,1
+160,Hat,SVS Cap,128,69.44,1
+161,Hat,Sea Captain,221,40.22,1
+162,Hat,Small Bowler Hat,69,128.81,1
+163,Hat,Spinner Cap,193,46.05,1
+164,Hat,Stake,156,56.97,1
+165,Hat,Tennis Headband Blue,340,26.14,1
+166,Hat,Tennis Headband Red,366,24.28,1
+167,Hat,Third Eye,173,51.38,1
+168,Hat,Witch Hunter,328,27.1,1
+169,Head,Blue,2908,3.06,1
+170,Head,Burning,892,9.96,1
+171,Head,Cyborg,1112,7.99,1
+172,Head,Gold,100,88.88,1
+173,Head,Nightcrawler,974,9.13,1
+174,Head,Purple Count,1344,6.61,1
+175,Head,Shadow,776,11.45,1
+176,Head,Sparkle,270,32.92,1
+177,Head,Zombie,496,17.92,1
+178,Moon,Blood Moon,804,11.05,1
+179,Moon,Moon,5571,1.6,1
+180,Moon,Sun,2497,3.56,1
+181,Mouth,Base,3072,2.89,1
+182,Mouth,Black Lipstick,405,21.95,1
+183,Mouth,Bloody Mouth,606,14.67,1
+184,Mouth,Diamond Fangs,193,46.05,1
+185,Mouth,Diamond Grills,235,37.82,1
+186,Mouth,Disgust,398,22.33,1
+187,Mouth,Gold Fangs,354,25.11,1
+188,Mouth,Gold Grills,299,29.73,1
+189,Mouth,Pierced Tongue,414,21.47,1
+190,Mouth,Rainbow Grills,139,63.94,1
+191,Mouth,Red Lipstick,690,12.88,1
+192,Mouth,Rotten Teeth,550,16.16,1
+193,Mouth,Single Bloody Tooth,444,20.02,1
+194,Mouth,Single Diamond Tooth,121,73.45,1
+195,Mouth,Tongue,952,9.34,1
+196,Unique,Ancient Count,1,8888.0,1
+197,Unique,Bathead,8,1111.0,1
+198,Unique,Killer Clown,1,8888.0,1
+199,Unique,Nosferatu,1,8888.0,1
+200,Unique,Punk Vampire,1,8888.0,1
+201,Unique,The Impaler,1,8888.0,1
+202,Unique,Vampire Lord,1,8888.0,1
+203,Unique,Vampire Nun,1,8888.0,1
+204,Unique,Vampire Slayer,1,8888.0,1

@@ -1,0 +1,11 @@
+{
+  "name": "Vampire Lord",
+  "description": "[Image without background](https://ipfs.io/ipfs/bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/2173_no_bg.png)",
+  "attributes": [
+    {
+      "trait_type": "Unique",
+      "value": "Vampire Lord"
+    }
+  ],
+  "image": "ipfs://bafybeibltrk5hoi5p3swpiw5wnthqxh7z5xvker6xlqjqjfvqdpgbb4asi/2173.png"
+}
